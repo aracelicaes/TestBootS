@@ -1,0 +1,60 @@
+body {
+  font-size: 16px;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.pink {
+  background-color: lightpink;
+}
+
+.purple {
+  background-color: rgb(163, 85, 163);
+}
+
+.green {
+  background-color: rgb(98, 150, 98);
+}
+
+.main_container {
+  height: 100vh;
+  max-width: 80vw;
+  width: 100%;
+}
+
+.main_row {
+  height: 100%;
+}
+
+.main_nav {
+  border-radius: 0px 20px 20px 0px;
+  height: 100vh;
+  /*box-shadow: 4px 0px 16px rgba(16, 30, 115, 0.08);*/
+  box-shadow: 4px 0px 16px rgba(16, 30, 115, 0.7);
+  max-width: 256px;
+  width: 100%;
+  /* background: #FFFFFF; */
+}
+
+.inside_nav {
+  height: 100%;
+  width: 100%;
+}
+
+.top_left_logo {
+  margin-top: 40px;
+  width: 205px;
+  height: 50px;
+}
+
+.top_left_logo img {
+  width: 100%;
+  height: 100%;
+}
+
+.nav-icon {
+  color: black;
+  width: 100%;
+}
